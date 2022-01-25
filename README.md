@@ -241,10 +241,11 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimashazaman&hide_border=true&layout=compact" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=bimashazaman&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bimashazaman&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQGqrGKwmtQ7Pw/profile-displaybackgroundimage-shrink_350_1400/0/1636660543142?e=1648684800&v=beta&t=LFU3jgC-tbrUwzGGH2G9kWDP9pQU6H28_luS4w66Tps" align="left" height="" width="80%" />  
-  
+<div align="center">
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQGqrGKwmtQ7Pw/profile-displaybackgroundimage-shrink_350_1400/0/1636660543142?e=1648684800&v=beta&t=LFU3jgC-tbrUwzGGH2G9kWDP9pQU6H28_luS4w66Tps" align="center" height="" width="80%" />
+</div>  
 
 <br/>  
 
@@ -272,7 +273,5 @@
                     align="center"
                 />
             </a></div>
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+

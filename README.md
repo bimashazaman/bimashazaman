@@ -15,6 +15,11 @@
 
 <br/>  
 
+<div align="center">
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQGqrGKwmtQ7Pw/profile-displaybackgroundimage-shrink_350_1400/0/1636660543142?e=1648684800&v=beta&t=LFU3jgC-tbrUwzGGH2G9kWDP9pQU6H28_luS4w66Tps" align="center" height="" width="80%" />
+</div>  
+<br/>
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -243,9 +248,7 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bimashazaman&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<div align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQGqrGKwmtQ7Pw/profile-displaybackgroundimage-shrink_350_1400/0/1636660543142?e=1648684800&v=beta&t=LFU3jgC-tbrUwzGGH2G9kWDP9pQU6H28_luS4w66Tps" align="center" height="" width="80%" />
-</div>  
+
 
 <br/>  
 

@@ -12,8 +12,6 @@
 
 - 👯 I’m looking to collaborate on **Any projects**
 
-- 💬 Ask me about **anything**
-
 - 📫 How to reach me **bimasha@npmcode.com**
 
 - 📄 Know about my experiences [bimasha.com](bimasha.com)

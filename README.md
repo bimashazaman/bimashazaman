@@ -2,7 +2,7 @@
 
 <h1> Hello Fellow < Developers/ >! </h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bimashazaman.bimashazaman)
+
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
@@ -54,7 +54,7 @@
 <a href= https://github.com/bimashazaman?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me </h2>
 <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/bimasha-zaman/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/https://twitter.com/_bimasha_'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'bimasha.com'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
@@ -62,8 +62,10 @@
 
 
 <h2> My GitHub Stats </h2>
+ 
 
 ![Metrics](https://metrics.lecoq.io/bimashazaman?template=classic&config.timezone=America%2FToronto)
+
 
 <h2> Some Programming Humor for you</h2>
 

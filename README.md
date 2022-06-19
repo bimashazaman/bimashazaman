@@ -59,7 +59,7 @@
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/bimashazaman)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/bimashazaman)   -->
 
 
 

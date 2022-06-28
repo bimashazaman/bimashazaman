@@ -49,6 +49,8 @@
 
 ![Metrics](https://metrics.lecoq.io/bimashazaman?template=classic&config.timezone=America%2FToronto)
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bimashazaman)  
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fm4v4fwz5x46icz3gmdr6pgxwe&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
 <h2> Some Programming Humor for you</h2>

@@ -57,6 +57,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
-![wave](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=WAVE)
+
 
 

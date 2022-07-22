@@ -17,7 +17,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on npmcode
+- 🔭 I’m currently working on my own company Tech Expert
 
 - 🌱 I’m currently learning Data Science, AWS,Data Engineering 
 

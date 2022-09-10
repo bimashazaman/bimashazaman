@@ -23,10 +23,10 @@
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles 
 
-- 💬 Talk to me about   Freelancing Opportunites 
+- 💬 Talk to me about Freelancing Opportunites 
 
 <center style="text:center">
-<a href="https://www.buymeacoffee.com/bimasha" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://www.buymeacoffee.com/bimasha" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;align="center";box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </center>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
@@ -60,12 +60,12 @@
  
 
 ![Metrics](https://metrics.lecoq.io/bimashazaman?template=classic&config.timezone=America%2FToronto)
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bimashazaman)  
+ 
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fm4v4fwz5x46icz3gmdr6pgxwe&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
 
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bimashazaman) 
 
 
 

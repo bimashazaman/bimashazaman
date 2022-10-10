@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently open for opportunities
 
-- 🌱 I’m currently learning Data Science, AWS,Data Engineering 
+- 🌱 I’m currently learning Data Science
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles 
 

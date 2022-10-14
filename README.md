@@ -19,7 +19,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently open for opportunities
+- 🔭 Dance and Coding is my paassion
 
 - 🌱 I’m currently learning Data Science
 

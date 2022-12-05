@@ -29,7 +29,7 @@
 
 -  I love to help people
 
-- Have any projects/ Need help? Reach me out!
+- Have any projects/ Need help? Reach me on Linkedin, search my name on google you will get all infos. Cheers!
 
 <center style="text:center">
 <a href="https://www.buymeacoffee.com/bimasha" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;align="center";box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>

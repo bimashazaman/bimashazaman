@@ -4,8 +4,6 @@
 </div>
 
 
-
-
 <div align="center">
   <a href="https://bimasha.com/">
   <img src="https://github.com/bimashazaman/Github-snake-SVG/blob/master/snake.svg"

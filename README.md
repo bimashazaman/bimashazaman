@@ -65,12 +65,6 @@
 [![](https://visitcount.itsvg.in/api?id=bimashazaman&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bimashazaman&bg_color=000000&color=00ff1e&line=00bfff&point=00d123&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
-
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

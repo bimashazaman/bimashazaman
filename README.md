@@ -19,7 +19,7 @@
 
 - 🔭 Buillding amazing projects is my passion
 
--  I waste lot of times on music
+-  I waste lot of time on music
 
 -  I keep commitments
 

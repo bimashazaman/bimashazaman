@@ -10,8 +10,6 @@
        alt="snake" /></a>
 </div>
 
-
-
 <h2>0.02% About Me-</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -42,8 +40,6 @@
 ![terminal (1)](https://user-images.githubusercontent.com/81862443/193223002-9f2adf20-a186-4ea3-a79d-78361424fe47.gif)
 
 
-
-
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
 
@@ -63,7 +59,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bimashazaman&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 
 

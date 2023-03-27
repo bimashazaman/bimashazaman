@@ -10,7 +10,7 @@
        alt="snake" /></a>
 </div>
 
-<h2>0.02% About Me-</h2>
+<h2>0.02% About Me:</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 

@@ -15,17 +15,17 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 Buillding amazing projects is my passion
+Hello there! I'm a software developer deeply passionate about building amazing projects. 💻
 
--  I waste lot of time on music
+When I'm not coding, you might catch me immersing myself in music. 🎵 It's one of my favorite ways to unwind and find inspiration.
 
--  I keep commitments
+I take commitments very seriously and always strive to meet them with quality work. I believe in the power of keeping one's word.
 
--  I eat, sleep, dance and code() 
+My life can be summed up in a few simple actions: I eat, sleep, occasionally bust out a dance move, and code. And then repeat. 🍔💤💃👨‍💻
 
--  I love to help people
+I'm always eager to lend a hand where I can. I firmly believe in the value of collaboration and helping others—it's how we grow and create fantastic things together.
 
-- Have any projects/ Need help? Reach me on Linkedin, search my name on google you will get all infos. Cheers!
+If you have a project in mind or need help with something, feel free to reach out! You can find me on LinkedIn. Simply Google my name and all my contact info will be right there. Cheers! 🎉
 
 [![](https://visitcount.itsvg.in/api?id=bimashazaman&label=Profile%20Views%20Per%20Month&icon=1&pretty=false)](https://visitcount.itsvg.in)
 

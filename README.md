@@ -174,8 +174,8 @@ pie title "Impact Distribution"
 
 For technology leadership opportunities:
 
-[![Strategic Discussion](https://img.shields.io/badge/Schedule%20Discussion-Connect-784DFD?style=for-the-badge)](mailto:contact@bimashazaman.com)
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-Explore-784DFD?style=for-the-badge)](https://bimashazaman.com)
+[![Strategic Discussion](https://img.shields.io/badge/Schedule%20Discussion-Connect-784DFD?style=for-the-badge)](mailto:bimashazaman1234@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-Explore-784DFD?style=for-the-badge)](https://bimasha.com)
 
 </div>
 

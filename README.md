@@ -17,7 +17,6 @@
     <img src="https://img.shields.io/badge/Global%20Projects-10+%20Countries-784DFD?style=for-the-badge" />
 </div>
 
-## 🌟 Technology Leader Profile -
 
 ```typescript
 interface TechLeader {

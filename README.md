@@ -59,7 +59,7 @@ const bimashaZaman: TechLeader = {
 };
 ```
 
-## 💫 Value Delivery
+## Value Delivery
 
 ### For Organizations
 - **Revenue Impact**: Built solutions driving $50M+ in revenue
@@ -73,7 +73,7 @@ const bimashaZaman: TechLeader = {
 - **Culture**: Established agile practices and innovation culture
 - **Delivery**: Maintained 99.9% uptime for critical systems
 
-## 🚀 Technical Expertise Matrix
+## Technical Expertise Matrix
 
 <div align="center">
 
@@ -88,7 +88,7 @@ const bimashaZaman: TechLeader = {
 
 </div>
 
-## 🎯 Strategic Impact
+## Strategic Impact
 
 ```mermaid
 mindmap
@@ -112,7 +112,7 @@ mindmap
       [User Satisfaction]
 ```
 
-## ⚡ Core Technologies
+## Core Technologies
 
 <div align="center" style="background: var(--bg-gradient); padding: 20px; border-radius: 10px;">
 
@@ -133,7 +133,7 @@ mindmap
 
 </div>
 
-## 🏆 Key Achievements
+## Key Achievements
 
 ### System Architecture
 - Designed systems handling 1M+ daily active users
@@ -153,7 +153,7 @@ mindmap
 - Established engineering best practices
 - Improved team productivity by 150%
 
-## 📈 Success Metrics
+## Success Metrics
 
 <div align="center">
 
@@ -167,7 +167,6 @@ pie title "Impact Distribution"
 
 </div>
 
-## 🌐 Connect & Collaborate
 
 <div align="center">
 
@@ -178,7 +177,7 @@ For technology leadership opportunities:
 
 </div>
 
-## 🎓 Professional Development
+##  Professional Development
 
 <div align="center">
 

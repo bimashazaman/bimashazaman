@@ -2,11 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=65&pause=1000&color=784DFD&center=true&vCenter=true&random=false&width=1200&height=120&lines=BIMASHA+ZAMAN;Visionary+Technology+Leader;Delivering+Enterprise+Impact)](https://git.io/typing-svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,14,15,18,20&height=350&section=header&text=Engineering%20Excellence%20%E2%88%99%20Innovation%20%E2%88%99%20Leadership&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Transforming%20Enterprises%20Through%20Cutting-Edge%20Technology&descAlignY=51&descAlign=50">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=24,25,26,27,28&height=350&section=header&text=Engineering%20Excellence%20%E2%88%99%20Innovation%20%E2%88%99%20Leadership&fontSize=45&fontColor=000&animation=fadeIn&fontAlignY=38&desc=Transforming%20Enterprises%20Through%20Cutting-Edge%20Technology&descAlignY=51&descAlign=50">
-  <img alt="Technology Leadership" src="default.png">
-</picture>
+
 
 </div>
 
@@ -177,18 +173,6 @@ For technology leadership opportunities:
 
 </div>
 
-##  Professional Development
-
-<div align="center">
-
-| Area | Contribution | Impact |
-|------|--------------|--------|
-| Technical Writing | 10+ Articles | Industry |
-| Speaking | 15+ Tech Talks | Regional |
-| Open Source | 20+ Projects | Community |
-| Mentorship | 20+ Engineers | Company |
-
-</div>
 
 ---
 

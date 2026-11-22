@@ -219,7 +219,7 @@ A focused review or a single call to get you unstuck. Is the idea sound, is it s
 <img src="https://cdn.simpleicons.org/modelcontextprotocol/8B949E" height="24" alt="Model Context Protocol" title="Model Context Protocol">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/langgraph/8B949E" height="24" alt="LangGraph" title="LangGraph">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/ollama/8B949E" height="24" alt="Ollama" title="Ollama">
-<br><sub>Claude, OpenAI, Gemini, MCP, LangGraph, Ollama, RAG pipelines, evals and LLM observability</sub>
+<br><sub>Claude, OpenAI, Gemini, MCP, LangGraph, Ollama, RAG, evals and observability</sub>
 </td>
 </tr>
 <tr>

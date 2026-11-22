@@ -212,7 +212,7 @@ A focused review or a single call to get you unstuck. Is the idea sound, is it s
 
 <table>
 <tr>
-<td width="26%" valign="top"><b>AI and agents</b></td>
+<td valign="top"><b>AI and agents</b></td>
 <td>
 <img src="https://cdn.simpleicons.org/claude/8B949E" height="24" alt="Claude" title="Claude">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/googlegemini/8B949E" height="24" alt="Gemini" title="Gemini">&nbsp;&nbsp;&nbsp;

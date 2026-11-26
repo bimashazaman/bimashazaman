@@ -86,7 +86,7 @@ Under every AI feature is an ordinary product that simply has to work. Payments,
 
 **I keep a platform thousands of coaches rely on running smoothly, and ship new things without breaking the parts that handle their money.**
 
-It's been live for years, so it carries old code, old decisions and a billing system where every bug has a dollar value attached. I work across the whole stack. I rebuilt the scheduling, billing and session credit logic, ran security audits, and tracked down the bugs that only show up in production payment flows.
+It's been live for years, so it carries old code, old decisions and a billing system where every bug has a dollar value attached. I work across the whole stack. 
 
 I also changed how the team tests. AI tooling now drafts acceptance criteria and test plans for every release, so fewer surprises reach paying coaches.
 
